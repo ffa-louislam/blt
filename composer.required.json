@@ -22,8 +22,7 @@
     "dmore/chrome-mink-driver": "^2.5.0",
     "dmore/behat-chrome-extension": "^1.0.0",
     "mikey179/vfsStream": "~1.2",
-    "symfony/phpunit-bridge": "^3.4.3",
-    "sensiolabs-de/deprecation-detector": "dev-master"
+    "symfony/phpunit-bridge": "^3.4.3"
   },
   "autoload-dev": {
     "psr-4": {
